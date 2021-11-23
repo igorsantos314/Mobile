@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ReceberIntent</string>
+
+    <string-array name="list_clientes">
+        <item>IGOR SANTOS</item>
+        <item>RAFEALA WEIS</item>
+        <item>EWERTON LIMA</item>
+        <item>GABRIEL VASCONSELOS</item>
+    </string-array>
+
+</resources>
