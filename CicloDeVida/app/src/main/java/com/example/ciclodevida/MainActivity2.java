@@ -37,6 +37,6 @@ public class MainActivity2 extends AppCompatActivity {
         String name = i.getStringExtra("Nome");
 
         //SETAR ATRIBUTOS
-        titulo.setText("Bem a nova Activy "+name);
+        titulo.setText("Selecione um Documento "+name+": ");
     }
 }
